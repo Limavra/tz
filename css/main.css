@@ -1,0 +1,17 @@
+#square {
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+
+}
+
+.wrapper {
+    display: flex;
+    border: 1px solid #000;
+    
+}
+/*margins between blocks */
+li {
+    margin-right: 20px;
+    
+}
