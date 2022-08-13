@@ -1,3 +1,4 @@
+
 #square {
     width: 150px;
     height: 150px;
@@ -13,5 +14,5 @@
 /*margins between blocks */
 li {
     margin-right: 20px;
-    
+    list-style-type: disc;
 }
